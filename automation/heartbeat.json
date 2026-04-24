@@ -1,0 +1,25 @@
+{
+  "status": "healthy",
+  "timestamp": "2024-10-27T10:30:00Z",
+  "appVersion": "1.2.3",
+  "buildNumber": "456",
+  "environment": "production",
+  "device": {
+    "platform": "iOS",
+    "osVersion": "17.0",
+    "model": "iPhone 14 Pro"
+  },
+  "resources": {
+    "cpuUsage": 0.15,
+    "memoryUsage": 0.6,
+    "diskSpaceAvailable": "50GB"
+  },
+  "network": {
+    "connectionType": "wifi",
+    "signalStrength": -60
+  },
+  "customMetrics": {
+    "activeUsers": 12345,
+    "sessions": 6789
+  }
+}
